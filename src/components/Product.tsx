@@ -78,7 +78,7 @@ const Product = () => {
           </span>
           <h2 className="font-display font-bold text-4xl md:text-6xl text-white mt-4 mb-6">
             Почему выбирают{" "}
-            <span className="gradient-text">LaunchX?</span>
+            <span className="gradient-text">PrintMakerTomsk?</span>
           </h2>
           <p className="text-white/50 text-lg max-w-2xl mx-auto leading-relaxed">
             Мы создали продукт, который решает реальные проблемы. Без лишнего
