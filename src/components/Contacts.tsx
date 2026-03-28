@@ -73,7 +73,7 @@ const Contacts = () => {
               {
                 icon: "Phone",
                 title: "Телефон",
-                value: "+7 (800) 000-00-00",
+                value: "+7 923 410-59-28",
                 sub: "Бесплатно по России",
                 color: "var(--neon-pink)",
               },
