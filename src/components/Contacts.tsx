@@ -59,7 +59,7 @@ const Contacts = () => {
               {
                 icon: "Mail",
                 title: "Email",
-                value: "NIkitauhnenko@yandex.ry",
+                value: "Nikitauhnenko@yandex.ru",
                 sub: "Ответим в течение 2 часов",
                 color: "var(--neon-purple)",
               },
