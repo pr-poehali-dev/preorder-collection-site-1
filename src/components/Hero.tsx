@@ -106,7 +106,7 @@ const Hero = () => {
           {[
             { value: "2 400+", label: "предзаказов" },
             { value: "73%", label: "цель собрана" },
-            { value: "48ч", label: "до конца акции" },
+
           ].map((stat) => (
             <div key={stat.label} className="text-center">
               <div className="font-display font-bold text-2xl md:text-3xl gradient-text">
