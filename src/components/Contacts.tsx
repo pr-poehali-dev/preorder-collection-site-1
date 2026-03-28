@@ -66,7 +66,7 @@ const Contacts = () => {
               {
                 icon: "MessageCircle",
                 title: "Telegram",
-                value: "@launchx_support",
+                value: "@nikitayukhnenko",
                 sub: "Онлайн с 9:00 до 22:00",
                 color: "var(--neon-cyan)",
               },
