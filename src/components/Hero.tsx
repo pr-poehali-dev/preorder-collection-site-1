@@ -99,12 +99,7 @@ const Hero = () => {
               Оформить предзаказ
             </span>
           </button>
-          <button
-            onClick={() => scrollTo("product")}
-            className="glow-btn-secondary font-semibold px-8 py-4 rounded-2xl text-base"
-          >
-            Узнать больше
-          </button>
+
         </div>
 
         <div className="flex items-center justify-center gap-10 mt-16 animate-fade-in-up delay-400">
