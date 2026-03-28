@@ -77,6 +77,13 @@ const Contacts = () => {
                 sub: "Бесплатно по России",
                 color: "var(--neon-pink)",
               },
+              {
+                icon: "Users",
+                title: "ВКонтакте",
+                value: "@nikitayukhnenko",
+                sub: "Пишите в личные сообщения",
+                color: "var(--neon-cyan)",
+              },
             ].map((contact) => (
               <div
                 key={contact.title}
