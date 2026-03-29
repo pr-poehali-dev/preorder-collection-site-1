@@ -30,7 +30,7 @@ const Navbar = () => {
             <Icon name="Zap" size={16} className="text-white" />
           </div>
           <span className="font-display font-bold text-xl text-white">
-            PrintmakerTomsk
+            PrintMakerTomsk
           </span>
         </div>
 
