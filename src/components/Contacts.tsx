@@ -72,7 +72,7 @@ const Contacts = () => {
               },
               {
                 icon: "Phone",
-                title: "Телефон",
+                title: "Телефон — Max",
                 value: "+7 923 410-59-28",
                 sub: "Бесплатно по России",
                 color: "var(--neon-pink)",
